@@ -8,7 +8,7 @@ Downloads VSIX files from the VS Code Extension Marketplace for offline install
 
 Cross-platform, use the Powershell script on Windows and the Bash script on Linux
 
-```txt
+```sh
 Snag That Extension! - Downloads the VSIX file from the VS Code Extension Marketplace for offline install
 
 Usage:
@@ -34,13 +34,13 @@ Arguments:
 
 Download it with:
 
-```bash
+```sh
 curl -fsSL https://raw.githubusercontent.com/soda3x/snag-that-ext/main/snag-that-ext.sh -o snag-that-ext.sh
 ```
 
 Make it executable with:
 
-```bash
+```sh
 chmod +x snag-that-ext.sh
 ```
 
